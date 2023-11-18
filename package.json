@@ -1,5 +1,5 @@
 {
-  "name": "react-json-form-builder",
+  "name": "react-json-form-maker",
   "version": "1.0.0",
   "description": "create form dynamicly from json schema",
   "main": "./src/index.tsx",
