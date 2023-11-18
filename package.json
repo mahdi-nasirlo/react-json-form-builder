@@ -1,0 +1,22 @@
+{
+  "name": "react-json-form-builder",
+  "version": "1.0.0",
+  "description": "create form dynamicly from json schema",
+  "main": "./src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-nasirlo/react-json-form-builder.git"
+  },
+  "author": "mahdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdi-nasirlo/react-json-form-builder/issues"
+  },
+  "homepage": "https://github.com/mahdi-nasirlo/react-json-form-builder#readme",
+  "devDependencies": {
+    "@types/node": "^20.9.1"
+  }
+}
